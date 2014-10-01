@@ -19,4 +19,4 @@ Domain name:
     - demo.website.com:8080
 </pre>
 
-I cannot provide real-world examples here. But I do have extensive tests on it.
+I cannot provide real-world examples here.
