@@ -1,7 +1,7 @@
 IIS MetaBase.xml parser
 ----------------------------
 
-The module matches ServerBindings with Physical Paths. *Much more* helpful than the adsutil script, isn't is?
+The module matches ServerBindings with Physical Paths. *Much more* helpful than the adsutil script
 
 Usage:
 <pre>./metabase.pl /path/to/MetaBase.xml</pre>
